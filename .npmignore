@@ -1,0 +1,12 @@
+*
+
+!package.json
+
+!CHANGELOG.md
+!LICENSE.md
+!README.md
+
+!config/locales/**/*
+
+!dist/bin/**/*
+!dist/src/**/*

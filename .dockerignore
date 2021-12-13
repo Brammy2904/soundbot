@@ -1,0 +1,13 @@
+*
+
+!bin
+!lib
+!config/locales
+
+!sounds
+
+!src
+
+!package.json
+!yarn.lock
+!tsconfig.json
